@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there👋
+My name is Didier Weijters. Im currently a student wanting to learn coding skills to broaden my skill set.
 
 <!--
 **Didier-Weijters/Didier-Weijters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
